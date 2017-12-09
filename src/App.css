@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+.header {
+  padding-top: 15px;
+}
+
+.description {
+  font-style: italic;
+}
