@@ -1,7 +1,7 @@
 {
   "name": "beatlehunt",
   "version": "0.1.0",
-  "homepage": "https://wsvincent.github.io/react-beatles-hunt",
+  "homepage": "https://wsvincent.github.io/react-beatles-hunt/",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
