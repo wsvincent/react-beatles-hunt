@@ -1,4 +1,4 @@
-# Beatle Hunt - A Product Hunt clone in React
+# Beatles Hunt - A Product Hunt clone in React
 
 Created with [Create React App](https://github.com/facebookincubator/create-react-app).
 
