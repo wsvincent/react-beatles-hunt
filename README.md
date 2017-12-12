@@ -4,11 +4,11 @@ Created with [Create React App](https://github.com/facebookincubator/create-reac
 
 ## Live Demo
 
-[https://wsvincent.github.io/react-beatle-hunt](https://wsvincent.github.io/react-beatle-hunt)
+[https://wsvincent.github.io/react-beatles-hunt](https://wsvincent.github.io/react-beatles-hunt)
 
 ## Run it locally
 
-`git clone https://raw.githubusercontent.com/wsvincent/react-beatle-hunt`
+`git clone https://raw.githubusercontent.com/wsvincent/react-beatles-hunt`
 
 `npm install`
 
